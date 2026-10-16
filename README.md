@@ -19,6 +19,16 @@ Independent API assets validated; upstream native registration, UI and complete 
 gpt-image-2(VIP), **from $0.0019/image**; the tested low/1K preset here is **$0.0019/image**. Different models, qualities and resolutions do not imply equivalent results.
 
 [Video additions, parameters, costs and reuse](video_extra/README.md)
+<!-- TOAPIS-VIDEO-PREVIEWS-20261016 -->
+### Seedance video demos and clip costs
+
+[![Toonflow · Seedance 2](video_extra/previews/seedance-2.jpg)](https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-toonflow-toapis/main/video_extra/clips/seedance-2.mp4)
+
+**Seedance 2** · 480p · 4.04s · **$0.25497/clip** · about $0.063111/s
+
+API-settled amounts; the new tasks await billing-sheet cross-check. USD/s is specific to these clips.
+
+<!-- /TOAPIS-VIDEO-PREVIEWS-20261016 -->
 <!-- /TOAPIS-MODEL-COST-UPDATE-20261016 -->
 
 [English](README.md) · [中文](README_zh-CN.md)
