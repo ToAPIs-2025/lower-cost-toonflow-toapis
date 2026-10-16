@@ -16,9 +16,10 @@
   "actual_usd_per_second": "0.06311138613861386138613861386",
   "rate_usd_per_million_tokens": "6.571429",
   "api_billing_status": "settled",
-  "owner_sheet_status": "pending",
+  "owner_sheet_status": "confirmed",
   "fully_decoded": true,
   "date": "2026-10-16",
   "type": "video",
-  "output": "clips/seedance-2.mp4"
+  "output": "clips/seedance-2.mp4",
+  "actual_charge_credits": "50.994"
 }
