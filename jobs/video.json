@@ -1,0 +1,11 @@
+{
+  "kind": "video",
+  "model": "MiniMax-H3",
+  "duration": 5,
+  "resolution": "768p",
+  "prompt": "Slowly glide toward the airship window, sunset clouds move behind the adult red panda captain, preserve the original illustrated character, no text.",
+  "image": "https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-toonflow-toapis/main/examples/gpt-image-2-vip.png",
+  "run_id": "my-explicit-video-run",
+  "output": "demo/my-video.mp4",
+  "evidence": "evidence/my-video.json"
+}

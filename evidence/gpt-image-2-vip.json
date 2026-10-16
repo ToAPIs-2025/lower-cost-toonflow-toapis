@@ -1,0 +1,27 @@
+{
+  "task_id": "tsk_img_01M517YZJVH18DHJPHRVF7R16D",
+  "model": "gpt-image-2-vip",
+  "quote_usd": 0.0019,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "billing": null,
+  "request": {
+    "model": "gpt-image-2-vip",
+    "prompt": "Original 2D animated storyboard still of an adult red panda airship captain wearing a teal uniform at a brass control panel, sunset clouds over an original floating city, warm terracotta and teal colors, no text, no logos, square frame.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "low"
+  },
+  "original_output": "examples/gpt-image-2-vip.original.png",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Original 2D animated storyboard still of an adult red panda airship captain wearing a teal uniform at a brass control panel, sunset clouds over an original floating city, warm terracotta and teal colors, no text, no logos, square frame.",
+  "output": "examples/gpt-image-2-vip.png",
+  "sha256": "47718b723ca0a2556d0301be0ad57d9308df5f33e394c487c18e0018509dce35",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

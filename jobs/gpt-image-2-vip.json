@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2-vip",
+  "prompt": "Original 2D animated storyboard still of an adult red panda airship captain wearing a teal uniform at a brass control panel, sunset clouds over an original floating city, warm terracotta and teal colors, no text, no logos, square frame.",
+  "size": "1024x1024",
+  "run_id": "1016-tf-0",
+  "output": "examples/gpt-image-2-vip.png",
+  "evidence": "evidence/gpt-image-2-vip.json"
+}
