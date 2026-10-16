@@ -1,0 +1,7 @@
+{
+  "model": "seedance-2",
+  "image": "https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-toonflow-toapis/main/examples/gpt-image-2-vip.png",
+  "prompt": "Slowly glide toward the airship window, sunset clouds move behind the adult red panda captain, preserve the original illustrated character, no text.",
+  "run_id": "my-unique-seedance-2-example",
+  "output": "results/seedance-2.mp4"
+}

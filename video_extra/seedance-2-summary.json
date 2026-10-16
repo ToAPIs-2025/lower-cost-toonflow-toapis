@@ -1,0 +1,24 @@
+{
+  "model": "seedance-2",
+  "mode": "independent_api_asset",
+  "status": "completed",
+  "requested_seconds": 4,
+  "resolution": "480p",
+  "aspect_ratio": "1:1",
+  "generate_audio": false,
+  "actual_seconds": "4.04",
+  "actual_dimensions": [
+    640,
+    640
+  ],
+  "fps": "24",
+  "actual_charge_usd": "0.25497",
+  "actual_usd_per_second": "0.06311138613861386138613861386",
+  "rate_usd_per_million_tokens": "6.571429",
+  "api_billing_status": "settled",
+  "owner_sheet_status": "pending",
+  "fully_decoded": true,
+  "date": "2026-10-16",
+  "type": "video",
+  "output": "clips/seedance-2.mp4"
+}
